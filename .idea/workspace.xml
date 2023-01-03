@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Init Commit! Testing!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Init Commit! Testing!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <workItem from="1671338441561" duration="104000" />
       <workItem from="1672772796529" duration="168000" />
       <workItem from="1672772979339" duration="690000" />
-      <workItem from="1672773864201" duration="3931000" />
+      <workItem from="1672773864201" duration="4298000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit!">
       <created>1666003495671</created>
