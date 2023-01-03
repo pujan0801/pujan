@@ -31,8 +31,9 @@ function App() {
   }, []);
 
   return (
-    <Router basename="/pujan">
-      <Preloader load={load}/>
+    <Router>
+      <Router basename="/pujan"></Router>
+      <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <ScrollToTop />
