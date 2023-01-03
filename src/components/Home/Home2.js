@@ -41,7 +41,7 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <p>
-              <span style={{fontSize:"1.5em"}}>Feel free to </span><span className="purple" style={{fontSize:"1.5em"}}>connect </span><span style={{fontSize:"1.5em"}}>with me</span>
+              <span style={{fontSize:"2em"}}>Feel free to </span><span className="purple" style={{fontSize:"2em"}}>connect </span><span style={{fontSize:"2em"}}>with me</span>
             </p>
 
             <ul className="home-about-social-links">

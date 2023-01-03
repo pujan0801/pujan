@@ -10,6 +10,7 @@ import photo3 from "../../Assets/photo3.png";
 import photo4 from "../../Assets/photo4.png";
 import photo5 from "../../Assets/photo5.png";
 import photo6 from "../../Assets/photo6.png";
+import button from "bootstrap/js/src/button";
 import Toolstack from "../About/Toolstack";
 import {CgFileDocument} from "react-icons/cg";
 import Button from "react-bootstrap/Button";
