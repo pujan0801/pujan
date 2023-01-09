@@ -4,6 +4,7 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import {Route} from "react-router-dom";
 
 function Home() {
   return (
@@ -37,6 +38,7 @@ function Home() {
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
               />
+
             </Col>
           </Row>
         </Container>

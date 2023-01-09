@@ -4,6 +4,11 @@
     <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Init Commit! Testing!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Home2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Others/Others.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Others/Others.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +89,7 @@
       <workItem from="1672772979339" duration="690000" />
       <workItem from="1672773864201" duration="4506000" />
       <workItem from="1672981747603" duration="89000" />
-      <workItem from="1673245311338" duration="1351000" />
+      <workItem from="1673245311338" duration="2771000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit!">
       <created>1666003495671</created>
