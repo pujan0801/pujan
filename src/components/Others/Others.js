@@ -21,6 +21,12 @@ function Others() {
         <Container fluid className="about-section">
             <Particle />
             <Container>
+                <h1 className="project-heading">
+                    <strong className="purple" style={{fontSize:"35px"}}>Certificates</strong> <strong style={{fontSize:"35px"}}>I have</strong>
+                </h1>
+                <p style={{ color: "white" }}>
+                    Here are my certificates.
+                </p>
                 <Row style={{ justifyContent: "center", padding: "5px" }}>
                     <Col
                         md={7}
@@ -30,9 +36,6 @@ function Others() {
                             paddingBottom: "30px",
                         }}
                     >
-                        <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-                            <strong className="purple" style={{fontSize:"40px", fontStyle:"italic"}}>Certificates</strong> <strong style={{fontSize:"40px", fontStyle:"italic"}}>I have</strong>
-                        </h1>
                         <Certificates />
                     </Col>
 
@@ -49,7 +52,7 @@ function Others() {
 
             <Container>
                 <h1 className="project-heading">
-                    <strong style={{fontStyle:"italic"}}> My</strong><strong className="purple" style={{fontStyle:"italic"}}> Photography</strong><strong style={{fontStyle:"italic"}}> Portfolio</strong>
+                    <strong style={{fontSize:"35px"}}> My</strong><strong className="purple" style={{fontSize:"35px"}}> Photography</strong><strong style={{fontSize:"35px"}}> Portfolio</strong>
                 </h1>
                 <p style={{ color: "white" }}>
                    Here are some of the shots taken by me.
@@ -108,8 +111,8 @@ function Others() {
                             ghLink="https://drive.google.com/drive/folders/1aAmG-d-0nAnwM8rdVlU5Ripnciscs7oK?usp=share_link"
                         />
                     </Col>
-                    <h1 className="project-heading" style={{fontStyle:"italic"}}>
-                        My <strong className="purple">Tools </strong>
+                    <h1 className="project-heading" >
+                        <strong style={{fontSize:"35px"}}>My</strong> <strong className="purple" style={{fontSize:"35px"}}>Tools </strong>
                     </h1>Tools I use
                     <Toolstack/>
 

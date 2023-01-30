@@ -7,9 +7,6 @@ function Certificates() {
         <Card className="quote-card-view">
             <Card.Body>
                 <blockquote className="blockquote mb-0">
-                    <p style={{ textAlign: "justify" }}>
-                        Here are my certificates.
-                    </p>
                     <ul>
                         <li className="about-activity">
                             <ImPointRight />  <strong style={{fontSize:"28px"}} className="purple">Technical</strong><strong style={{fontSize:"28px"}}> Events </strong>
