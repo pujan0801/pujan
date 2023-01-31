@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Font changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Font changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +99,7 @@
       <workItem from="1672773864201" duration="4506000" />
       <workItem from="1672981747603" duration="89000" />
       <workItem from="1675108947707" duration="1370000" />
+      <workItem from="1675195002370" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit!">
       <created>1666003495671</created>
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666004130673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Font changes">
+      <created>1675195246356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675195246356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit!" />
     <MESSAGE value="Init Commit! Testing!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Commit! Testing!" />
+    <MESSAGE value="Font changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Font changes" />
   </component>
 </project>
