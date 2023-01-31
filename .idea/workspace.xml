@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Font changes" />
+    <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Font changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -99,7 +102,7 @@
       <workItem from="1672773864201" duration="4506000" />
       <workItem from="1672981747603" duration="89000" />
       <workItem from="1675108947707" duration="1370000" />
-      <workItem from="1675195002370" duration="347000" />
+      <workItem from="1675195002370" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit!">
       <created>1666003495671</created>
@@ -122,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675195246356</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Font changes">
+      <created>1675195742490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675195742490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
