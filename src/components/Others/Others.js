@@ -10,7 +10,6 @@ import photo3 from "../../Assets/photo3.png";
 import photo4 from "../../Assets/photo4.png";
 import photo5 from "../../Assets/photo5.png";
 import photo6 from "../../Assets/photo6.png";
-import button from "bootstrap/js/src/button";
 import Toolstack from "../About/Toolstack";
 import {CgFileDocument} from "react-icons/cg";
 import Button from "react-bootstrap/Button";
@@ -44,7 +43,7 @@ function Others() {
                         style={{ paddingTop: "120px", paddingBottom: "50px" }}
                         className="about-img"
                     >
-                        <img src={certi} alt="certi" className="img-fluid" style={{paddingBlock:"60px"}}/>
+                        <img src={certi} alt="certi" className="img-fluid" style={{paddingInline: "50px"}}/>
                     </Col>
                 </Row>
             </Container>
@@ -55,7 +54,7 @@ function Others() {
                     <strong style={{fontSize:"35px"}}> My</strong><strong className="purple" style={{fontSize:"35px"}}> Photography</strong><strong style={{fontSize:"35px"}}> Portfolio</strong>
                 </h1>
                 <p style={{ color: "white" }}>
-                   Here are some of the shots taken by me.
+                   Here are some of the portfolios captured by me.
                 </p>
                 <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                     <Col md={4} className="project-card">

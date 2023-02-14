@@ -355,8 +355,8 @@ button:focus {
 .home-social-icons {
   position: relative !important;
   display: inline-block !important;
-  width: 40px !important;
-  height: 40px !important;
+  width: 30px !important;
+  height: 30px !important;
   text-align: center !important;
   font-size: 1.2em !important;
   line-height: 2em !important;
@@ -615,7 +615,7 @@ button:focus {
 }
 .tech-icons-text{
   color: white;
-  font-size: 25px;
+  font-size: 23px;
   padding: 19px 19px;
   transform: translate(1%, 60%);
 }
