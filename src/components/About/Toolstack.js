@@ -7,6 +7,8 @@ import {
   SiCanva,
   SiAcer
 } from "react-icons/si";
+import {AiFillCamera} from "react-icons/ai";
+
 
 function Toolstack() {
   return (
@@ -30,10 +32,10 @@ function Toolstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <SiAdobeaftereffects />
+        <AiFillCamera />
           <div className="images">
               <div className="middle">
-                  <div className="tech-icons-text">AfterEffects</div>
+                  <div className="tech-icons-text">Canon</div>
               </div>
           </div>
       </Col>
