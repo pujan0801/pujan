@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Small bugs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.b57f87c4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.b57f87c4.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.d3514424.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.d3514424.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.d3514424.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!pujan0801!pujansoni.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!pujan0801!pujansoni.git" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +77,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JavaScript Debug.Debug Application">
+  <component name="RunManager" selected="npm.predeploy">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -84,8 +91,19 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.predeploy" />
         <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
@@ -110,7 +128,8 @@
       <workItem from="1676364877273" duration="1645000" />
       <workItem from="1676370318885" duration="9000" />
       <workItem from="1676371279657" duration="60000" />
-      <workItem from="1676371499158" duration="2512000" />
+      <workItem from="1676371499158" duration="2760000" />
+      <workItem from="1676436753186" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit!">
       <created>1666003495671</created>
@@ -154,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676372854626</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Small bugs">
+      <created>1676374061928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676374061928</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +197,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="origin/gh-pages" />
                       </list>
                     </value>
                   </entry>
