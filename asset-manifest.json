@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pujan/static/css/main.96c83e0c.css",
+    "main.css": "/pujan/static/css/main.5c3319ce.css",
     "main.js": "/pujan/static/js/main.215500b0.js",
     "static/js/415.4d6acbeb.chunk.js": "/pujan/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/pujan/static/js/787.1ed0c42c.chunk.js",
@@ -30,13 +30,13 @@
     "static/media/home-bg.jpg": "/pujan/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/pujan/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/pujan/index.html",
-    "main.96c83e0c.css.map": "/pujan/static/css/main.96c83e0c.css.map",
+    "main.5c3319ce.css.map": "/pujan/static/css/main.5c3319ce.css.map",
     "main.215500b0.js.map": "/pujan/static/js/main.215500b0.js.map",
     "415.4d6acbeb.chunk.js.map": "/pujan/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/pujan/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96c83e0c.css",
+    "static/css/main.5c3319ce.css",
     "static/js/main.215500b0.js"
   ]
 }
