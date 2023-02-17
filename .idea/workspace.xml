@@ -6,14 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="20977279-ed21-45e0-8e94-3e16b951d234" name="Changes" comment="Small bugs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.b57f87c4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.b57f87c4.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.d3514424.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.d3514424.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.d3514424.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!pujan0801!pujansoni.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!pujan0801!pujansoni.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Experiences/ExpCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experiences/ExpCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,24 +55,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ps_res/portfolio&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/ps_res/portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="npm.predeploy">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -129,7 +125,11 @@
       <workItem from="1676370318885" duration="9000" />
       <workItem from="1676371279657" duration="60000" />
       <workItem from="1676371499158" duration="2760000" />
-      <workItem from="1676436753186" duration="609000" />
+      <workItem from="1676436753186" duration="2363000" />
+      <workItem from="1676549238950" duration="1147000" />
+      <workItem from="1676574525303" duration="463000" />
+      <workItem from="1676626213065" duration="30000" />
+      <workItem from="1676628930105" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit!">
       <created>1666003495671</created>
@@ -180,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676374061928</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Small bugs">
+      <created>1676437386009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676437386009</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Small bugs">
+      <created>1676439103453</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676439103453</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

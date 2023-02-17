@@ -358,8 +358,9 @@ button:focus {
   width: 30px !important;
   height: 30px !important;
   text-align: center !important;
-  font-size: 1.2em !important;
-  line-height: 2em !important;
+  font-size: 1.1em !important;
+  line-height: 1.4em !important;
+  padding: 0.1em;
   background: rgba(255, 255, 255, 0.972) !important;
   border-radius: 50% !important;
   transition: 0.5s !important;
@@ -392,7 +393,7 @@ button:focus {
 
 .social-icons {
   display: inline-block !important;
-  padding-right: 15px;
+  padding-right: 13px;
   padding-left: 15px;
 }
 

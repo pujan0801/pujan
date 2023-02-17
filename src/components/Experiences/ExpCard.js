@@ -96,7 +96,12 @@ function ExpCard() {
                         Cloud Computing were taught by the respective experts from inside as well as outside
                         the organisation within the Gurukula Ecosystem. Likewise, case studies of flagship
                         projects in each domain were developed.
-
+                        <div>
+                            <br/>
+                            <a href="https://drive.google.com/file/d/1NmsWx55RQ1sdbZNlt61Un2CufV7hnoCK/view?usp=sharing" target="_blank">
+                                <button className="btn-primary">Certification</button>
+                            </a>
+                        </div>
                     </li>
                 </blockquote>
             </Card.Body>
