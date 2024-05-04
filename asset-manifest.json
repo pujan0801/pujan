@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/pujan/static/css/main.a69791a5.css",
+    "main.js": "/pujan/static/js/main.6243bd40.js",
+    "static/js/453.ace21015.chunk.js": "/pujan/static/js/453.ace21015.chunk.js",
+    "static/media/photo2.png": "/pujan/static/media/photo2.c68ae60308c447518780.png",
+    "static/media/rnn.png": "/pujan/static/media/rnn.0024ad82cff3f302884a.png",
+    "static/media/micro.png": "/pujan/static/media/micro.61c8363dec12c4fb9477.png",
+    "static/media/photo4.png": "/pujan/static/media/photo4.6a92bec8495d98fc2345.png",
+    "static/media/photo5.png": "/pujan/static/media/photo5.1dded99c7447e1b6d2cc.png",
+    "static/media/photo3.png": "/pujan/static/media/photo3.aeb25ec06e24a4e8b357.png",
+    "static/media/airospy.png": "/pujan/static/media/airospy.7d77c84fb8fd9a0912d8.png",
+    "static/media/skin.png": "/pujan/static/media/skin.a9e34c6c836e1aa24ba1.png",
+    "static/media/photo6.png": "/pujan/static/media/photo6.8d1ae4c76f66428c9fd7.png",
+    "static/media/vehicle.png": "/pujan/static/media/vehicle.cbbf8a7cd6c40d2b4989.png",
+    "static/media/face.png": "/pujan/static/media/face.feeddaf6214f9389f9e5.png",
+    "static/media/photo1.png": "/pujan/static/media/photo1.c62bbebcae25fe3d4192.png",
+    "static/media/logo.png": "/pujan/static/media/logo.b17f0eb895747c1e93e4.png",
+    "static/media/cognitive.png": "/pujan/static/media/cognitive.4952525c27a3f2989c4a.png",
+    "static/media/sentiment.png": "/pujan/static/media/sentiment.b529ca9180c9ac6f3fa7.png",
+    "static/media/digit.png": "/pujan/static/media/digit.a28730bf59a2fca82983.png",
+    "static/media/home-main.svg": "/pujan/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/pujan/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/summary.png": "/pujan/static/media/summary.87961bc52e1dba6290a5.png",
+    "static/media/avatar.png": "/pujan/static/media/avatar.58a46707b67d030a087e.png",
+    "static/media/iot.png": "/pujan/static/media/iot.770d28f59e1bc49f2db1.png",
+    "static/media/exp.png": "/pujan/static/media/exp.8017691393e9530a4af5.png",
+    "static/media/certi.png": "/pujan/static/media/certi.e6dfb1bb6db8a8d18ec0.png",
+    "static/media/home-bg.jpg": "/pujan/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/pujan/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/pujan/index.html",
+    "main.a69791a5.css.map": "/pujan/static/css/main.a69791a5.css.map",
+    "main.6243bd40.js.map": "/pujan/static/js/main.6243bd40.js.map",
+    "453.ace21015.chunk.js.map": "/pujan/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69791a5.css",
+    "static/js/main.6243bd40.js"
+  ]
+}
